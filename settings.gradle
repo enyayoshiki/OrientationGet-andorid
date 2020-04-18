@@ -1,0 +1,2 @@
+rootProject.name='OrientationGet'
+include ':app'
